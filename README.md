@@ -49,6 +49,9 @@
 ## Exercise 016
 ![Screenshot of a the drawing of exercise 016.](./images/016_exercise.png)
 
+## Exercise 017
+![Screenshot of a the drawing of exercise 017.](./images/017_exercise.png)
+
 ## Practice
 ![Screenshot of a the drawing of batman symbol.](./images/batman.png)
 
